@@ -1,4 +1,4 @@
-# Project Name
+# Washington EV Population Dashboard
 A brief introduction to your project.
 
 ## Analysis Process
